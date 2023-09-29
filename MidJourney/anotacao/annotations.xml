@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>318321</id>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-09-14 13:04:53.317686+00:00</created>
+      <updated>2023-09-14 13:26:49.393700+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>49</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>318537</id>
+          <start>0</start>
+          <stop>49</stop>
+          <url>https://app.cvat.ai/api/jobs/318321</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>caio4</username>
+        <email>andrade.caiog@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Pessoa</name>
+          <color>#29e699</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-09-14 13:28:06.633359+00:00</dumped>
+  </meta>
+  <image id="0" name="Jsan_Create_a_art_print_inspired_on_salvador_dali_art_in_a_visu_1252582c-8c49-478e-b120-48ac342a269a.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="233.62" ytl="59.32" xbr="806.14" ybr="802.51" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Jsan_Create_a_art_print_inspired_on_salvador_dali_art_in_a_visu_7e0f0e21-cee6-41d0-b83f-561579a381ad.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="269.93" ytl="134.37" xbr="787.99" ybr="691.15" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Jsan_Create_a_art_print_with_reference_of_most_famous_work_of_a_5ef53e7e-82d0-4716-be6f-5e1878a81afb.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="177.94" ytl="99.27" xbr="775.88" ybr="1022.80" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Jsan_Create_a_art_print_with_reference_of_most_famous_work_of_a_6b13ec8e-eda6-42ff-9420-ef2da533c65f.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="271.15" ytl="10.91" xbr="841.24" ybr="712.94" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Jsan_Create_a_art_print_with_reference_of_most_famous_work_of_a_b125f085-5b79-4e53-b2b1-dcb706c932bf.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="407.92" ytl="16.96" xbr="1024.00" ybr="766.20" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Jsan_Create_a_captivating_and_visually_stunning_piece_of_AI-gen_72850178-ce89-490f-8930-5dfe799b4d81.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="88.37" ytl="84.74" xbr="939.29" ybr="712.94" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Jsan_Create_a_dynamic_and_thought-provoking_piece_of_AI-generat_37dcd274-bc24-4693-b398-f4ab4f405e21.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="105.32" ytl="154.95" xbr="923.55" ybr="909.03" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Jsan_Create_a_dynamic_and_thought-provoking_piece_of_AI-generat_491fa671-3242-41b0-9d75-bc919bec7630.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="341.35" ytl="200.94" xbr="680.26" ybr="671.79" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Jsan_Create_a_dynamic_and_thought-provoking_piece_of_AI-generat_f0ed617b-ad4c-4374-95a8-2e35e27953f1.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="282.04" ytl="144.05" xbr="761.36" ybr="574.96" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Jsan_sleep_8101b301-42ce-46c6-940e-391203376b1c.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="130.74" ytl="141.63" xbr="1024.00" ybr="806.14" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="afkupuz_Dynamic_full_body_pose_style_of_Wlop_Anotherwanderer_Ar_79228ee3-e618-4228-984f-b5672383c445.png" width="896" height="1344">
+    <box label="Pessoa" source="manual" occluded="0" xtl="206.59" ytl="119.22" xbr="692.72" ybr="1220.15" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="aie_rico_A_scientist_looks_into_the_lens_with_a_magnifying_glas_24938c01-fc64-4613-b6f4-d11a000dd9b3.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="272.36" ytl="220.31" xbr="757.73" ybr="990.12" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="burtonjcampbell_an_ancient_Christian_art_depiction_of_Christ_in_7c7c94ec-8e6c-4495-9033-ce3d8bc76a32.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="233.62" ytl="167.05" xbr="688.73" ybr="919.92" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="campbrand_30_year_old_mixed_women_slim_and_athletic_at_Lake_Lou_415b1c87-912b-47b6-b513-c07534c5eabb.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="283.25" ytl="81.11" xbr="700.84" ybr="1022.80" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="campbrand_30_year_old_mixed_women_slim_and_athletic_at_Lake_Lou_416b1199-7f94-40a8-927e-f90eba3db57e.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="324.40" ytl="112.58" xbr="702.05" ybr="1016.75" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="campbrand_30_year_old_mixed_women_slim_and_athletic_at_Lake_Lou_9ef95d97-0f51-4004-a261-7442c1ba607c.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="324.40" ytl="102.90" xbr="708.10" ybr="1019.17" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="campbrand_30_year_old_mixed_women_slim_and_athletic_at_Lake_Lou_b628ad25-5785-40f3-9f9e-ce1827cca9ef.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="329.24" ytl="104.11" xbr="716.57" ybr="1013.12" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="darktaletellers_30262_Neutral_face_red-haired_quiet_and_introve_7aa7bc2f-1ab8-472c-b7da-d8e606fae85d.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="66.59" ytl="20.59" xbr="959.86" ybr="1021.59" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="dotakon_La_gratitud_diluye_el_dolor._Enfocate_en_las_bendicione_f31a5e75-fead-4b75-ba73-4303c1efd5d3.png" width="1456" height="816">
+    <box label="Pessoa" source="manual" occluded="0" xtl="194.56" ytl="7.73" xbr="1301.85" ybr="813.12" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="dotakon_Meditating_person_with_open_arms_and_palms_up_98e20ae1-a6a3-4c3f-bf6a-b84e26b50cbf.png" width="1456" height="816">
+    <box label="Pessoa" source="manual" occluded="0" xtl="250.51" ytl="146.63" xbr="1219.87" ybr="782.26" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="edusony_mother_watching_her_children_each_lost_in_their_own_cel_70f2beb5-1b25-483f-be5c-7c2eeebeec9a.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="432.13" ytl="49.64" xbr="898.13" ybr="986.49" z_order="0">
+    </box>
+    <box label="Pessoa" source="manual" occluded="0" xtl="113.79" ytl="474.49" xbr="441.81" ybr="992.54" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="futurewarrior._CINEMATIC_STILL_FILM_BY_JAMES_CAMERON_FASHION_SH_c3fb5a6a-12be-42fa-a25c-47658a61a317.png" width="1536" height="768">
+    <box label="Pessoa" source="manual" occluded="0" xtl="216.01" ytl="105.26" xbr="585.49" ybr="761.60" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="guesha_1.png" width="928" height="1232">
+    <box label="Pessoa" source="manual" occluded="0" xtl="6.69" ytl="27.66" xbr="714.43" ybr="1084.91" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="homen_negro.png" width="896" height="1344">
+    <box label="Pessoa" source="manual" occluded="0" xtl="139.87" ytl="397.23" xbr="791.22" ybr="1224.92" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="joekokay_55504_CUsersjoekoDesktopCapture4.PNG_d120e7f5-a649-4667-8ca6-30c180b45fb9.png" width="1968" height="592">
+    <box label="Pessoa" source="manual" occluded="0" xtl="966.98" ytl="14.13" xbr="1293.78" ybr="592.00" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="joekokay_55504_CUsersjoekoDesktopCapture5.PNG_3c846581-85b0-4da7-bfee-24b8455486bc.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="159.79" ytl="30.28" xbr="934.45" ybr="1017.96" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="joekokay_55504_CUsersjoekoDesktopCapture5.PNG_44530845-37a6-4d7a-8d7c-c69a7f19aa7e.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="148.89" ytl="2.44" xbr="1020.38" ybr="1003.44" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="joekokay_55504_CUsersjoekoDesktopCapture5.PNG_d5705507-b9ff-49b4-a8c3-c731c704a88e.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="76.27" ytl="35.12" xbr="809.77" ybr="1015.54" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="joekokay_55504_CUsersjoekoDesktopCapture5.PNG_fb94657a-0d81-4cb0-98a7-dd9e3ccedb25.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="41.17" ytl="53.27" xbr="918.71" ybr="1019.17" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="joekokay_55504_crown_3485128d-a9e0-4199-ac51-b47a313b8afa.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="58.11" ytl="67.80" xbr="984.07" ybr="1008.28" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="marcdel75_a_brunette_girl_with_long_hair_and_with_the_eyes_of_t_16aa98c6-a20c-4b25-a4dc-ca3c85648dea.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="185.21" ytl="49.64" xbr="767.41" ybr="1019.17" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="marcdel75_a_brunette_girl_with_long_hair_and_with_the_eyes_of_t_1e528099-6831-4103-b6b8-ec7fbc7901f0.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="134.37" ytl="31.49" xbr="762.57" ybr="1013.12" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="menino.png" width="1456" height="816">
+    <box label="Pessoa" source="manual" occluded="0" xtl="545.66" ytl="53.07" xbr="904.46" ybr="807.34" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="nelsonarellano_Tarot_Image_hiperrealistic_d358d3a7-8b38-47f3-b96f-9cf46901184e.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="328.03" ytl="44.80" xbr="681.47" ybr="832.77" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="nelsonarellano_tarot_image_hiperrealistic_301814c6-722a-4bb4-be86-d3e720886cb2.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="273.57" ytl="85.95" xbr="796.46" ybr="894.50" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="nelsonarellano_tarot_image_hiperrealistic_c91fec7f-5e1f-4756-aae9-068aba17afc8.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="309.88" ytl="204.57" xbr="762.57" ybr="957.44" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="sara_vanae_8k_photorealistic_female_beauitful_fantasy_character_8b0e0ce2-1c14-4d70-b07a-55e326f17042.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="141.63" ytl="9.70" xbr="980.44" ybr="1009.49" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="sara_vanae_photorealisitic_8K_wearing_ancient_greece_clothing_a_66b90f05-ac2c-4870-b000-cedbb6337baa.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="93.22" ytl="19.38" xbr="985.28" ybr="1020.38" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="shanjianwu_A_round_faced_girl_is_lying_on_her_stomach_with_a_ro_1328b3c8-4bfe-498d-9af0-d13a279bff67.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="129.53" ytl="62.96" xbr="934.45" ybr="902.97" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="taniaflyingnotflying_a_scary_and_terrifying_youtube_thumbnail_o_73e9dc01-e466-4f7c-a38c-13066b77cae1.png" width="1456" height="816">
+    <box label="Pessoa" source="manual" occluded="0" xtl="468.49" ytl="30.88" xbr="958.48" ybr="686.77" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="timlaidlaw2204_man_running_through_forest_white_shirt_Sequoia_N_16bec9ed-6ea4-4758-876d-cb3ca9481462.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="446.65" ytl="544.70" xbr="587.06" ybr="912.66" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="titty8620_rihanna_twilman_sketch_2_in_the_style_of_emotive_surr_13d5ece6-3cf4-4b7d-b714-9b30e907e2c5.png" width="816" height="1456">
+    <box label="Pessoa" source="manual" occluded="0" xtl="22.57" ytl="86.08" xbr="803.75" ybr="877.76" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="titty8620_rihanna_twilman_sketch_2_in_the_style_of_emotive_surr_e34f62b7-61ba-46cf-b81a-3363639e22a2.png" width="816" height="1456">
+    <box label="Pessoa" source="manual" occluded="0" xtl="53.55" ytl="31.01" xbr="803.75" ybr="929.39" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="trem.png" width="1680" height="720">
+    <box label="Pessoa" source="manual" occluded="0" xtl="516.60" ytl="2.55" xbr="891.92" ybr="710.64" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="tuxps_a_photo_of_a_successfull_businessman_in_a_suit_leaving_a__ad647d74-1e01-4886-bce3-ae2c9f69589a.png" width="1232" height="928">
+    <box label="Pessoa" source="manual" occluded="0" xtl="375.80" ytl="87.75" xbr="820.06" ybr="925.80" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="tuxps_portrait_of_a_high_profile_fitness_business_man_confident_0e73b2bb-904b-45f9-aa72-15186cba7561.png" width="816" height="1456">
+    <box label="Pessoa" source="manual" occluded="0" xtl="12.25" ytl="268.51" xbr="808.92" ybr="1443.98" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="xiaoxuansu_Asian_school_girls_sitting_in_a_car_with_shattered_w_41d43614-3fef-4e05-8e9c-d2c4ca4aeab2.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="32.70" ytl="318.35" xbr="894.50" ybr="846.09" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="xiaoxuansu_Asian_school_girls_sitting_in_a_car_with_shattered_w_95ae1a7d-54a5-4c59-9c9b-43f09b72f003.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="41.17" ytl="226.36" xbr="835.19" ybr="679.05" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="xiaoxuansu_Asian_school_girls_sitting_in_a_car_with_shattered_w_e4bcf916-c9ff-4169-a807-261865223017.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="205.78" ytl="205.78" xbr="1024.00" ybr="938.08" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="xiaoxuansu_a_girl_dressed_in_dark_blue_gorgeous_clothes_golden__2ae05735-dd1a-426a-b83a-c0472550c275.png" width="1024" height="1024">
+    <box label="Pessoa" source="manual" occluded="0" xtl="205.78" ytl="0.02" xbr="1022.80" ybr="895.71" z_order="0">
+    </box>
+  </image>
+</annotations>
